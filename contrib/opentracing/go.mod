@@ -1,8 +1,6 @@
 module go.temporal.io/sdk/contrib/opentracing
 
-go 1.23.0
-
-toolchain go1.23.6
+go 1.25.7
 
 require (
 	github.com/opentracing/opentracing-go v1.2.0
